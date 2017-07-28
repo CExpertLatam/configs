@@ -201,7 +201,7 @@
       "active": true,
       "remember": true,
       "url": "/claim?action=view",
-      "name": "C€ LatAm",
+      "name": "C€ LatAm Platform",
       "monitor": {
          "id": "111",
          "name": "PnP-Monitor (Standard)",
@@ -286,7 +286,7 @@
    }, {
       "active": true,
       "remember": true,
-      "name": "C€ LatAm",
+      "name": "C€ LatAm Platform",
       "url": "/claim?action=view",
       "code": "postmaster-latam",
       "defaultMonitor": "not-main-monitor"
