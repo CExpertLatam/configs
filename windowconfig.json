@@ -219,6 +219,28 @@
       "timestamp": "2017-07-28T00:00:00.275Z",
       "inconsistentMonitor": false,
       "code": "postmaster-latam"
+   }, {
+      "active": true,
+      "remember": true,
+      "url": "app_public/uploadedfiles",
+      "name": "C€ LatAm Platform",
+      "monitor": {
+         "id": "111",
+         "name": "PnP-Monitor (Standard)",
+         "workArea": {
+            "height": 900,
+            "left": 1920,
+            "top": 0,
+            "width": 1600
+         }
+      },
+      "defaultMonitor": "not-main-monitor",
+      "fullScreen": false,
+      "popup": true,
+      "position": "center",
+      "timestamp": "2017-07-28T00:00:00.275Z",
+      "inconsistentMonitor": false,
+      "code": "postmaster-latam"
    }],
    "templates": [{
       "active": true,
@@ -288,6 +310,13 @@
       "remember": true,
       "name": "C€ LatAm Platform",
       "url": "/claim?action=view",
+      "code": "postmaster-latam",
+      "defaultMonitor": "not-main-monitor"
+   }, {
+      "active": true,
+      "remember": true,
+      "name": "C€ LatAm Platform",
+      "url": "app_public/uploadedfiles",
       "code": "postmaster-latam",
       "defaultMonitor": "not-main-monitor"
    }]
